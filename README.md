@@ -1,3 +1,2 @@
-# module2
-second homework
-lalalalalalalal
+# module2solution
+this is a repository for model 2
